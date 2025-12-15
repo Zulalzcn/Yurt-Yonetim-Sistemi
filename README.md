@@ -65,6 +65,23 @@ Notlar
 •	Geliştirmeye ve yeni özellikler eklemeye açıktır.
 •	Kod yapısı MVC mimarisine uygun olarak düzenlenmiştir.
 
+DİYAGRAMLAR
+### 👤 Abstract User Diyagramı
+![Abstract User](diagrams/AbstractUser.jpeg)
+
+### 🔔 Bildirim Diyagramı
+![Bildirim](diagrams/Abstractbildirimdiagram.png)
+
+### 🔁 Sequence Diyagramı
+![Sequence](diagrams/Sequence.jpeg)
+
+### 📌 Use Case Diyagramı
+![Use Case](diagrams/UseCase.jpeg)
+
+### 🗄️ Veritabanı Diyagramı
+![Veritabanı](diagrams/Veritabani.jpeg)
+
+
 
 
 
