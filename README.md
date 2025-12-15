@@ -1,5 +1,11 @@
 # Yurt-Yonetim-Sistemi
 Yurt Yönetim Sistemi
+
+Grup-15
+Beyzanur Akgüç - https://github.com/beyzaakgucc
+Zelal Salman - https://github.com/ZelalSalman
+Zülal Özcan
+
 Bu proje, bir yurt işletmesinde öğrenci ve personel işlemlerinin dijital ortamda yönetilmesini amaçlayan bir Yurt Yönetim Sistemidir. Sistem üzerinden kullanıcılar, kullanıcı adı ve şifre ile giriş yapabilmekte; kişisel bilgilerini görüntüleyip güncelleyebilmektedir. Öğrenciler, izin talebi oluşturabilmekte ve mevcut oda bilgilerine erişebilmektedir. Personel ise öğrenciler tarafından oluşturulan izin taleplerini onaylayabilmekte, oda değişikliği işlemlerini gerçekleştirebilmekte, yeni öğrenci ve oda ekleme gibi yönetimsel işlemleri sistem üzerinden kolayca yapabilmektedir.
 ________________________________________
 Projenin amacı
