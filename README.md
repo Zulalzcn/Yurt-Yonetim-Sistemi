@@ -79,7 +79,7 @@ DİYAGRAMLAR
 ![Use Case](diagrams/UseCase.jpeg)
 
 ### 🗄️ Veritabanı Diyagramı
-![Veritabanı](diagrams/Veritabani.jpeg)
+![Veritabanı](diagrams/Veritabanı.jpeg)
 
 
 
